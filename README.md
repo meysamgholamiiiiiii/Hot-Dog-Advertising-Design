@@ -1,6 +1,6 @@
 # Hot Dog Advertising Design
 
-![Hot Dog Design](./images/hot-dog-design.png)
+![Hot Dog Design](./images/Screenshot%20(183).png)
 
 ## About the Project
 
@@ -26,11 +26,11 @@ The project contains the final design, visual elements, and a PDF version of the
 
 ## Design Preview
 
-![Hot Dog Design](./images/hot-dog-design.png)
+![Hot Dog Design](./images/Screenshot%20(183).png)
 
 ## PDF
 
-[View Hot Dog Design PDF](./pdf/hot-dog-design.pdf)
+[View Hot Dog Design PDF](./pdf/طرح%20هات11.pdf)
 
 ## Software
 
