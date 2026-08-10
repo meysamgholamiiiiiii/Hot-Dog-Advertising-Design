@@ -28,7 +28,7 @@ The design combines product-focused visual elements with typography and layout t
 
 ## Design Preview
 
-![Hot Dog Advertising Design](./images/hot-dog-design.png)
+![Hot Dog Advertising Design](./images/Screenshot%20(183).png)
 
 ## PDF
 
